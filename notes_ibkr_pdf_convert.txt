@@ -3,7 +3,7 @@ using the example in the folder C:\Users\oscar\OneDrive\Documentos\johnmjohna\tg
 Run again with:
 
 python ibkr_pdf2csv.py 8-31-positions.pdf 8-31positions.csv
-Or run with no arguments for the same Browse/Convert GUI as the US Bank script.
+Or run with no arguments 
 --------------------------------
 """
 Extract Interactive Brokers Positions PDFs (print-to-PDF / image pages) to CSV.
